@@ -19,6 +19,17 @@
 
 ---
 
+## 🏗️ **Aprendizaje Acelerado y Uso Inteligente de la IA**  
+
+Desde octubre de 2024, he estado aprendiendo desarrollo web de manera intensiva, logrando proyectos evaluados con **calificaciones sobresalientes**.  
+
+📌 **Sobre la IA:**  
+Estoy **a favor del uso de la inteligencia artificial** como herramienta para mejorar la eficiencia y potenciar la creatividad. Sin embargo, creo firmemente que la IA, por sí sola, no es útil sin una **persona que comprenda lo que desea**, que **sepa comunicárselo** y que **interprete correctamente la devolución** que ofrece la tecnología.  
+
+Mi enfoque combina el aprendizaje rápido con una aplicación consciente de herramientas de automatización, asegurando que el resultado sea siempre de calidad.  
+
+---
+
 ## 💼 **Experiencia Aplicada al Desarrollo Web**  
 
 🔹 **Dirección y Gestión**  
@@ -45,6 +56,19 @@
 🔄 **Adaptabilidad** → Aprendizaje continuo y actualización constante  
 🗣️ **Comunicación** → Explicación clara de conceptos técnicos y funcionales  
 🔍 **Ética de trabajo** → Compromiso, responsabilidad y mejora constante  
+
+---
+
+## 💻 **Proyectos Destacados**  
+
+Aquí puedes ver algunos de mis proyectos en desarrollo web:  
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|------------|-------------|--------|
+| <img src="URL_DEL_LOGO_PROYECTO_1" width="100"/> | Proyecto 1 | `HTML` · `CSS` · `JavaScript` | [🔗 Ver más](URL_DEL_PROYECTO_1) |
+| <img src="URL_DEL_LOGO_PROYECTO_2" width="100"/> | Proyecto 2 | `React` · `Node.js` · `MongoDB` | [🔗 Ver más](URL_DEL_PROYECTO_2) |
+| <img src="URL_DEL_LOGO_PROYECTO_3" width="100"/> | Proyecto 3 | `Vue.js` · `Express` · `Firebase` | [🔗 Ver más](URL_DEL_PROYECTO_3) |
+| <img src="URL_DEL_LOGO_PROYECTO_4" width="100"/> | Proyecto 4 | `Next.js` · `TypeScript` · `GraphQL` | [🔗 Ver más](URL_DEL_PROYECTO_4) |
 
 ---
 
