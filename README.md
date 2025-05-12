@@ -1,54 +1,58 @@
-# 🚀 Cambio de Rumbo Profesional
+# 🚀 **Cambio de Rumbo Profesional**  
 
-Tras años de experiencia en la gestión y el ámbito social, he dado el salto al **desarrollo web**, aprovechando mis habilidades en organización, liderazgo y resolución de problemas.  
+💡 Tras años de experiencia en gestión y educación, me he adentrado en el **desarrollo web**, aprovechando mis conocimientos en organización, liderazgo y resolución de problemas.  
 
-No soy un candidato más. Mi trayectoria profesional me ha dado un **punto extra** que me diferencia de perfiles más jóvenes:  
-✅ **Visión estratégica y gestión de equipos.**  
-✅ **Adaptabilidad y aprendizaje constante.**  
-✅ **Habilidad para estructurar y optimizar procesos.**  
+🔹 No soy un candidato más. Mi experiencia me da un **punto extra** frente a perfiles más jóvenes:  
+✅ **Visión estratégica y gestión de equipos**  
+✅ **Adaptabilidad y aprendizaje constante**  
+✅ **Estructuración y optimización de procesos**  
 
-Actualmente, manejo las siguientes tecnologías:  
-🖥️ **HTML, CSS, JavaScript, Node.js, Git y GitHub**  
-
-Tengo la capacidad de traducir años de experiencia en metodologías de trabajo eficientes y productivas dentro de este nuevo campo.  
-
----
-
-## 💼 Experiencia Aplicada al Desarrollo Web  
-
-A lo largo de mi trayectoria profesional, he desarrollado habilidades que ahora potencian mi trabajo en tecnología:  
-
-### Dirección y Gestión  
-- Coordinación de equipos multidisciplinarios.  
-- Optimización de procesos y estructuración de proyectos.  
-- Trabajo en red con profesionales y organismos oficiales.  
-
-### Educación y Formación  
-- Transmisión de conocimientos y gestión de aprendizaje.  
-- Desarrollo de programas y formación de equipos.  
-- Implementación de metodologías ágiles en entornos exigentes.  
-
-### Resolución de Problemas  
-- Adaptabilidad en contextos cambiantes.  
-- Estrategia y toma de decisiones bajo presión.  
-- Enfoque analítico para encontrar soluciones efectivas.  
+🛠️ **Tecnologías que manejo:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</p>  
 
 ---
 
-## 🔥 Habilidades Clave  
+## 💼 **Experiencia Aplicada al Desarrollo Web**  
 
-- **Trabajo en equipo** → Colaboración efectiva con enfoque en resultados.  
-- **Gestión de proyectos** → Organización y planificación estratégica.  
-- **Adaptabilidad** → Aprendizaje continuo y actualización constante.  
-- **Comunicación** → Explicación clara de conceptos técnicos y funcionales.  
-- **Ética de trabajo** → Compromiso, responsabilidad y mejora continua.  
+🔹 **Dirección y Gestión**  
+✔️ Coordinación de equipos multidisciplinarios  
+✔️ Optimización de procesos y estructuración de proyectos  
+✔️ Trabajo en red con profesionales y organismos oficiales  
+
+🔹 **Educación y Formación**  
+✔️ Transmisión de conocimientos y gestión del aprendizaje  
+✔️ Desarrollo de programas y formación de equipos  
+✔️ Implementación de metodologías ágiles  
+
+🔹 **Resolución de Problemas**  
+✔️ Adaptabilidad en contextos cambiantes  
+✔️ Estrategia y toma de decisiones bajo presión  
+✔️ Enfoque analítico para soluciones efectivas  
 
 ---
 
-## 🌐 Contacto y Perfil Profesional  
+## 🔥 **Habilidades Clave**  
+
+🎯 **Trabajo en equipo** → Colaboración efectiva y orientación a resultados  
+🚀 **Gestión de proyectos** → Organización y planificación estratégica  
+🔄 **Adaptabilidad** → Aprendizaje continuo y actualización constante  
+🗣️ **Comunicación** → Explicación clara de conceptos técnicos y funcionales  
+🔍 **Ética de trabajo** → Compromiso, responsabilidad y mejora constante  
+
+---
+
+## 🌐 **Contacto y Perfil Profesional**  
 
 📩 **Email:** [diegodevsg@gmail.com](mailto:diegodevsg@gmail.com)  
 🔗 **LinkedIn:** [Diego González Pascual](https://www.linkedin.com/in/diegogonzalezpascual16/)  
-🖥️ **GitHub:** _[Tu perfil en GitHub]_  
+🖥️ **GitHub:** [DiegoTheCoder](https://github.com/DiegoTheCoder)  
 
-✨ Dispuesto a aportar mi experiencia y visión estratégica en el desarrollo web. 🚀  
+✨ **Dispuesto a aportar mi experiencia y visión estratégica en el desarrollo web.** 🚀  
+
